@@ -17,7 +17,7 @@ I'm a frontend developer specializing in Angular, with over 2+ years of experien
 I believe that communication and collaboration are key to successful projects. I always strive to understand the project requirements and the business goals behind them. I'm a problem-solver by nature and I enjoy working with other developers to find the best solution to any challenge.
 
 How to Reach Me
-- Feel free to reach out to me on [LinkedIn](https://github.com/DavidEspinozaRomero)
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/david-emanuel-espinoza-romero-deerhou/)
 - Mi email deerhou@gmail.com if you'd like to connect or discuss potential collaboration opportunities.
 - 💞️ I’m looking to collaborate on Opensource projects.
 
