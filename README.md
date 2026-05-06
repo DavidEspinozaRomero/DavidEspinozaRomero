@@ -28,9 +28,8 @@ He trabajado en sistemas administrativos y financieros, donde he optimizado el r
 
 ## 💼 Proyectos destacados
 
-![Hero Project Image](/assets/iviHero.png)
 
-<!-- #### [IVI Educa](https://github.com/DavidEspinozaRomero/ivi-educa) | EdTech & Management -->
+![Hero Project Image](/assets/iviHero.png)
 ### [IVI Educa](https://ivieduca.com) | EdTech & Management
 Ecosistema digital inteligente para optimizar la gestión académica y administrativa (SGA). 
 * Facilita la comunicación en tiempo real entre instituciones, docentes y alumnos.
@@ -38,12 +37,14 @@ Ecosistema digital inteligente para optimizar la gestión académica y administr
 * **Tech Stack:** Angular, Bootstrap.
 * **Logro:** Implementación de módulos críticos y refactorización para mejorar la mantenibilidad
 
+![Hero Project Image](/assets/renacerHero.png)
 ### [Renacer: Vivienda Social](https://proyectoviviendarenacer.netlify.app) | Social Impact
 Plataforma informativa orientada a facilitar el acceso transparente a vivienda para familias de escasos recursos.
 * Acceso claro a información de terrenos propios
 * Enfoque en impacto social y transparencia
 * **Tech Stack:** Astro, Tailwind CSS.
 
+![Hero Project Image](/assets/runnerDogGame.png)
 ### [Runner Dog Game](https://endlessrunnerdog.netlify.app) | Web Gaming
 Videojuego de navegador estilo *endless runner* optimizado para navegador.
 * Mecánicas fluidas y sistema de puntaje dinámico
@@ -59,12 +60,12 @@ Estoy especialmente enfocado en seguir creciendo en:
 * Optimización, Seguridad y Performance
 * Experiencias interactivas complejas
 
----
+<!-- ---
 
 ### 📈 Mis Estadísticas de GitHub
 
 ![Stats de David](https://github-readme-stats.vercel.app/api?username=DavidEspinozaRomero&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEspinozaRomero&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEspinozaRomero&layout=compact&theme=radical) -->
 
 ---
 
@@ -75,15 +76,15 @@ Estoy abierto a oportunidades de trabajo **local, internacional, remoto** y proy
 * **LinkedIn:** [David Espinoza](https://www.linkedin.com/in/david-emanuel-espinoza-romero-deerhou/)
 * **Email:** [deerhou@gmail.com](mailto:deerhou@gmail.com)
 * **Ubicación:** Ecuador 🇪🇨
-* **Mi teléfono:** [whatsapp](https://wa.me/593939384904)
+* **Teléfono:** [+593 93 938 4904](https://wa.me/593939384904)
 * **Portafolio:** [Visita mi sitio web](https://davidespinozaromero.github.io/)
 
 *"Construir aplicaciones digitales es la mejor forma de cambiar el mundo para mejorarlo"*.
 
 <!-- Skills -->
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 ## 📄 Curriculum Vitae
 
