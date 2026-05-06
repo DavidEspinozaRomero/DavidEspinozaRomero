@@ -1,31 +1,93 @@
-# <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e8eaed"><path d="M320-240 80-480l240-240 57 57-184 184 183 183-56 56Zm320 0-57-57 184-184-183-183 56-56 240 240-240 240Z"/></svg> David Emanuel Espinoza Romero 
-## Frontend Developer | Typescript | Angular | Unit Testing | Node | Nest.js | SQL | Postgres
+# Hola, soy David Espinoza Romero 👋
 
-Desarrollador frontend +3, Tengo un sólido conocimiento en desarrollo de aplicaciones web. Me siento cómodo trabajando en problemas complejos y resolviéndolos de manera efectiva, aplicar las mejores prácticas y un código limpio es mi pasión.
+### Software Developer | Angular Specialist | Frontend Enthusiast
 
-## Tecnologías
-- TypeScript
-- Es6
-- Rxjs
-- Angular
-- Unit Testing (TDD) Jest/Testing-Library
-- SCSS
-- Bootstrap
-- Angular Material
-- Git
+Soy un **Desarrollador Frontend con más de 3 años de experiencia** construyendo aplicaciones web escalables y eficientes. Me especializo en el ecosistema de **Angular** y me apasiona transformar problemas complejos en soluciones técnicas funcionales y fáciles de usar.
 
-## Connect with me  
+He trabajado en sistemas administrativos y financieros, donde he optimizado el rendimiento y la seguridad para mejorar la experiencia del usuario final. Creo firmemente que el código de calidad, acompañado de **pruebas unitarias** y buenas prácticas, es la clave para productos escalables.
 
-<!-- Linkedin -->
-<!-- [LinkedIn](https://www.linkedin.com/in/david-emanuel-espinoza-romero-deerhou/) -->
-- Me puedes encontrar en [LinkedIn](https://www.linkedin.com/in/david-emanuel-espinoza-romero-deerhou/)
-- Mi email deerhou@gmail.com [escríbeme](mailto:deerhou@gmail.com) para conversar de alguna opurtunidad de proyecto o colaboración.
-- Mi teléfono [whatsapp](https://wa.me/593939384904) para conversar de alguna opurtunidad de proyecto o colaboración.
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DavidEspinozaRomero&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### 🛠️ Mi Stack Tecnológico
 
-<br/>  
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | Angular, TypeScript, RxJS, Astro.js, HTML5, SCSS, Tailwind, Bootstrap  |
+| **Testing** | Jasmine, Karma, Jest, TDD |
+| **Backend & DB** | Node.js, NestJS, PostgreSQL, SQL Server, MongoDB |
+| **Herramientas** | Git, GitHub, Scrum, Figma, Adobe XD |
+
+---
+
+## 🌍 Idiomas
+
+* Español: Nativo
+* Inglés: Conversacional
+
+---
+
+## 💼 Proyectos destacados
+
+![Hero Project Image](/assets/iviHero.png)
+
+<!-- #### [IVI Educa](https://github.com/DavidEspinozaRomero/ivi-educa) | EdTech & Management -->
+### [IVI Educa](https://ivieduca.com) | EdTech & Management
+Ecosistema digital inteligente para optimizar la gestión académica y administrativa (SGA). 
+* Facilita la comunicación en tiempo real entre instituciones, docentes y alumnos.
+* Enfoque en usabilidad y eficiencia operativa
+* **Tech Stack:** Angular, Bootstrap.
+* **Logro:** Implementación de módulos críticos y refactorización para mejorar la mantenibilidad
+
+### [Renacer: Vivienda Social](https://proyectoviviendarenacer.netlify.app) | Social Impact
+Plataforma informativa orientada a facilitar el acceso transparente a vivienda para familias de escasos recursos.
+* Acceso claro a información de terrenos propios
+* Enfoque en impacto social y transparencia
+* **Tech Stack:** Astro, Tailwind CSS.
+
+### [Runner Dog Game](https://endlessrunnerdog.netlify.app) | Web Gaming
+Videojuego de navegador estilo *endless runner* optimizado para navegador.
+* Mecánicas fluidas y sistema de puntaje dinámico
+* Renderizado eficiente para alto rendimiento
+* **Tech Stack:** Angular, Canvas API.
+
+---
+## 🧠 Enfoque profesional
+
+Estoy especialmente enfocado en seguir creciendo en:
+
+* Arquitectura y Diseño de Software
+* Optimización, Seguridad y Performance
+* Experiencias interactivas complejas
+
+---
+
+### 📈 Mis Estadísticas de GitHub
+
+![Stats de David](https://github-readme-stats.vercel.app/api?username=DavidEspinozaRomero&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEspinozaRomero&layout=compact&theme=radical)
+
+---
+
+### 📧 ¡Hablemos!
+
+Estoy abierto a oportunidades de trabajo **local, internacional, remoto** y proyectos desafiantes 
+
+* **LinkedIn:** [David Espinoza](https://www.linkedin.com/in/david-emanuel-espinoza-romero-deerhou/)
+* **Email:** [deerhou@gmail.com](mailto:deerhou@gmail.com)
+* **Ubicación:** Ecuador 🇪🇨
+* **Mi teléfono:** [whatsapp](https://wa.me/593939384904)
+* **Portafolio:** [Visita mi sitio web](https://davidespinozaromero.github.io/)
+
+*"Construir aplicaciones digitales es la mejor forma de cambiar el mundo para mejorarlo"*.
+
+<!-- Skills -->
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📄 Curriculum Vitae
+
+[![Descargar CV](https://img.shields.io/badge/Descargar-Mi_CV-0056b3?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/assets/DavidEspinoza.pdf)
 
 
 <!-- Support -->
@@ -57,23 +119,3 @@ Desarrollador frontend +3, Tengo un sólido conocimiento en desarrollo de aplica
   </a>
 </div>
 -->
-<br />
-
-
-
-
-
-
-<!---
-## My Projects
-Here are a few projects that I've worked on:
-
-[Project 1](link to repo): Short description of the project and your contribution
-[Project 2](link to repo): Short description of the project and your contribution
-[Project 3](link to repo): Short description of the project and your contribution
-
-
-- 📫 How to reach me deerhou@gmail.com
-DavidEspinozaRomero/DavidEspinozaRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
