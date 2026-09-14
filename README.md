@@ -45,7 +45,8 @@ Interfaz de gestión de la jornada laboral de los empleados con seguimiento GPS.
 * Registros de entrada y salida
 * Asignación/Programación de jornada, eventos y calendario mensual.
 * Reportes mensuales: Empleados, Companias, horas totales trabajadas, incidencias, faltas.
-* **Tech Stack:** Angular, Tailwind + Lucide icons, Jest.
+* Seguridad: Autorización/Autentificación, Llave de acceso y llave de renovación, Roles de Administrador/Gerente/Empleado.
+* **Tech Stack:** Angular, Tailwind + Lucide icons, Jest, Nestjs, Postgres
 
 ![Hero Project Image](/assets/renacerHero.png)
 ### [Renacer: Vivienda Social](https://proyectoviviendarenacer.netlify.app) | Social Impact
