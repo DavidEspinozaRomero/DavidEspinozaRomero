@@ -1,10 +1,12 @@
 # Hola, soy David Espinoza Romero 👋
 
-### Software Developer | Angular Specialist | Frontend Enthusiast
+### Software Developer | AI Enthusiast
 
-Soy un **Desarrollador Frontend con más de 3 años de experiencia** construyendo aplicaciones web escalables y eficientes. Me especializo en el ecosistema de **Angular** y me apasiona transformar problemas complejos en soluciones técnicas funcionales y fáciles de usar.
+Soy un **Desarrollador de Software con más de 3 años de experiencia** construyendo aplicaciones web escalables y eficientes. Me apasiona transformar problemas complejos en soluciones técnicas funcionales y fáciles de usar.
 
-He trabajado en sistemas administrativos y financieros, donde he optimizado el rendimiento y la seguridad para mejorar la experiencia del usuario final. Creo firmemente que el código de calidad, acompañado de **pruebas unitarias** y buenas prácticas, es la clave para productos escalables.
+He trabajado en sistemas administrativos y financieros, donde he optimizado el rendimiento y la seguridad para mejorar la experiencia del usuario final. Creo firmemente que el código de calidad, acompañado de **pruebas unitarias/integración/e2e** y buenas prácticas, es la clave para productos escalables.
+
+Actualmente incorporando AI al flujo de trabajo para mayor velocidad.
 
 ---
 
@@ -12,10 +14,10 @@ He trabajado en sistemas administrativos y financieros, donde he optimizado el r
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | Angular, TypeScript, RxJS, Astro.js, HTML5, SCSS, Tailwind, Bootstrap  |
-| **Testing** | Jasmine, Karma, Jest, TDD |
-| **Backend & DB** | Node.js, NestJS, PostgreSQL, SQL Server, MongoDB |
-| **Herramientas** | Git, GitHub, Scrum, Figma, Adobe XD |
+| **Frontend** | Angular, TypeScript, RxJS / Signals, Astro.js, HTML5, SCSS, Tailwind, Bootstrap  |
+| **Testing** | Jest, TDD, Unit, Integration, e2e |
+| **Backend & DB** | Node.js, NestJS, SQL, PostgreSQL, MS SQL Server, MongoDB |
+| **Herramientas** | Git, GitHub / GitLab, XP, Scrum, Figma, Adobe XD |
 
 ---
 
@@ -36,6 +38,14 @@ Ecosistema digital inteligente para optimizar la gestión académica y administr
 * Enfoque en usabilidad y eficiencia operativa
 * **Tech Stack:** Angular, Bootstrap.
 * **Logro:** Implementación de módulos críticos y refactorización para mejorar la mantenibilidad
+
+![Hero Project Image](/assets/jornadaGo.png)
+### [IVI Educa](https://jornadago.netlify.app/) | Management & Reporting
+Interfaz de gestión de la jornada laboral de los empleados con seguimiento GPS.
+* Registros de entrada y salida
+* Asignación/Programación de jornada, eventos y calendario mensual.
+* Reportes mensuales: Empleados, Companias, horas totales trabajadas, incidencias, faltas.
+* **Tech Stack:** Angular, Tailwind + Lucide icons, Jest.
 
 ![Hero Project Image](/assets/renacerHero.png)
 ### [Renacer: Vivienda Social](https://proyectoviviendarenacer.netlify.app) | Social Impact
@@ -58,7 +68,8 @@ Estoy especialmente enfocado en seguir creciendo en:
 
 * Arquitectura y Diseño de Software
 * Optimización, Seguridad y Performance
-* Experiencias interactivas complejas
+* Agentes AI en flujos de trabajo
+* Automatizaciones
 
 <!-- ---
 
